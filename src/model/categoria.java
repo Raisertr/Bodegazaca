@@ -8,7 +8,7 @@ public class categoria {
     private int idCategoria;
     private String nombre;
     private String descripcion;
-    private int idUsuario; // Usuario que registró la categorí
+    private int idUsuario; // Usuario que registró la categoría
  public categoria() {}
     // Getters y Setters
     public int getIdCategoria() { return idCategoria; }
