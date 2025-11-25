@@ -68,6 +68,6 @@ public void setEstado(String estado) { this.estado = estado; }
         this.igv = BigDecimal.ZERO.setScale(2, BigDecimal.ROUND_HALF_UP);
         this.total = BigDecimal.ZERO.setScale(2, BigDecimal.ROUND_HALF_UP);
     }
-    this.estado = "Activo"; // Asegura que el estado esté asignado
+    this.estado = "Activo"; // Asegura que el estado esté asignad
 }
 }
